@@ -1,4 +1,4 @@
-import React from 'react';
+
 import { Bed, Bath, Square, MapPin, Heart, Eye } from 'lucide-react';
 
 const FeaturedProperties = () => {
